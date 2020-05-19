@@ -1,0 +1,22 @@
+div {
+	text-align: center;
+	width: 60em;
+}
+
+table {width: 75%;}
+td {width: 50%;}
+
+th.head {
+	background-color: #BBBBBB;
+	font-size:20px;
+}
+
+.cursive{
+	font-style: italic ;
+	text-align: left;
+	padding-left: 100px;
+}
+
+.justify{text-align: left;}
+
+.history{border: 1px solid black;}
